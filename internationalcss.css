@@ -1,0 +1,308 @@
+/*  international  */
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+background-image: url('images/flower5.jpg');
+    background-color:#FFDFD3;
+    font-family: 'ultra,cookie,lucliest guy';
+    font-size: large;
+    background-size: 1000px 1200px;
+    font-weight: lighter;
+}
+
+#heading1{
+    text-align: center;
+    font-weight:300! important;
+    color:darkgoldenrod;
+    font-size: 32px;
+    margin:20px;
+    font-family: 'Love Ya Like A Sister' , cursive;
+    
+}
+
+#paragraph1{
+    font-style:italic;
+    font-size:  23px;
+    color:dimgray ;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+
+#img1{
+    margin: 20px 20px 20px 20px;
+    padding:50px 50px 50px 50px;
+    right: 200px;
+     width: 300px;
+   
+}
+
+
+
+
+#h2,#h3,#h4,#h5{
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.para1{
+
+
+color:gray;
+background-color:rgb(220,186,128);
+border-style:none;
+width: 500px;
+height: 375px;
+position: relative;
+left: 800px;
+bottom: 450px;
+
+}
+
+
+#h2{
+
+    text-align: center;
+    font-weight: bold;
+    color:darkgoldenrod;
+    font-size:xx-large;
+    
+
+}
+
+#p1{
+    font-style:italic;
+    font-size:  26px;
+    color:white ;
+    text-align: center;
+    padding: 20px 20px;
+
+}
+
+#img2{
+    margin: 20px 20px 20px 20px;
+    padding:50px 50px 50px 50px;
+    top: 680px;
+   position: absolute;
+  
+    width: 400px;
+
+}
+
+.para2{
+
+    font-size: 30px;
+    color: white;
+    background-color: rgb(220,186,128);
+    top: -385px;
+    width: 500px;
+    
+    text-decoration-color:white;
+    position: relative;
+    left: 790px;
+    bottom: 600px;
+
+
+}
+
+#h3{
+
+    text-align: center;
+    font-weight: bold;
+    color:darkgoldenrod;
+    font-size:xx-large;
+    
+
+}
+
+
+#p2{
+
+    font-style:italic;
+    font-size:  23px;
+    color:white;
+    text-align: center;
+    padding: 20px 20px;
+
+}
+
+
+
+
+#img3{
+
+    margin: 20px 20px 20px 20px;
+    padding:50px 50px 50px 50px;
+    top: 1127px;
+    position: absolute;
+    
+   
+    width: 400px;
+
+}
+
+.para3{
+
+    font-size: 30px;
+    color: white;
+    background-color: rgb(220,186,128);
+    
+    width: 500px;
+    top: -315px;
+    height: 350px;
+     position: relative;
+    left: 790px;
+    bottom: 800px;
+
+}
+
+#h4{
+    text-align: center;
+    font-weight: bold;
+    color:darkgoldenrod;
+    font-size:xx-large;
+    top: 30px;
+    
+
+}
+
+#p3{
+    font-style:italic;
+    font-size:  26px;
+    color:white ;
+    text-align: center;
+    padding: 20px 20px;
+    
+}
+
+
+
+
+#img4{
+    margin: 20px 20px 20px 20px;
+    padding:50px 50px 50px 50px;
+   top: -270px;
+   position: relative;
+    
+}
+
+
+.para4{
+     font-size: 30px;
+    color: white;
+    background-color:rgb(220,186,128);
+    border-style: none;
+    width: 500px;
+    height: 350px;
+    text-decoration:none;
+    text-decoration-color: black;
+     position: relative;
+    left: 780px;
+    bottom: 730px;
+}
+
+#h5{
+    text-align: center;
+    font-weight: bold;
+    color:darkgoldenrod;
+    font-size:50px;
+
+    
+}
+
+#p4{
+    font-style:italic;
+    font-size:  24px;
+    color:white;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+
+h6 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+/*-------2nd paragraph-------*/
+
+.footersection-1 {
+    background: #db7093;
+    color: #f2f3ee;
+
+}
+/*--------address-------*/
+
+#address {
+    width: 240px;
+    float: left;
+    padding: 10px 0 10px 30px;
+    font-size: 20px;
+    font-family: 'open sans' , 'helvetica neue' , helvetica , arial , sans-serif;
+}
+
+/*----------right terms--------*/
+
+#rights {
+    position: relative;
+  left:550px;
+  bottom: 100px;
+    margin-top: 80px;
+}
+/*-----address-----*/
+
+.clearfix:after {
+visibility:hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
+#address ul {
+    padding: 20px 20px 20px 20px;
+    margin: 0;
+    position: relative;
+}
+
+/*--------socialmedia--------*/
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+/* cruise */
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+
+    background-color:lavender;
+    font-family: 'open sans' , 'helvetica neue' , helvetica , arial , sans-serif;
+    font-size: large;
+    
+    font-weight: lighter;
+}
+
+#heading1{
+    text-align: center;
+    font-weight:bold;
+    color:  #180918;
+    font-size: 40px;
+    margin:0;
+
+}
+#heading2{
+
+text-align: center;
+font-weight: normal;
+color:rgb(131, 133, 231);
+font-size: large;
+margin: 0;
+
+
+}
+h3 {
+  text-decoration: underline;
+}
+#paragraph{
+    font-style:italic;
+    font-size:  20px;
+    color:rgb(182, 151, 151);
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#gallery{
+    position: relative;
+    
+  bottom: 10px;
+  text-align: center;
+  margin: 20px 20px ;
+  padding: 20px 20px 20px 20px ;
+
+}
+
+#address, #rights {
+    width: 240px;
+    float: left;
+    padding: 10px 0 10px 50px;
+}
+
+#rights{
+    position: relative;
+    left:550px;
+    bottom: 100px;
+    margin-top: 9px;
+
+}
+
+.clearfix:after {
+    visibility:hidden;
+        display: block;
+        content: "";
+        clear: both;
+        height: 0;
+    }
+
+    #cw tr {
+        list-style-type: square;
+      }
+      footer.main {
+          background:black; 
+          color:white;
+      }
+      .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+

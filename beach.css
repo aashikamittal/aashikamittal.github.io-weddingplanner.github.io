@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image:url('images/beach1.jpg');
+	background-size: 1400px 1300px;
+}	
+
+h7 {
+      font-size: 1.8em;
+      text-align: center;
+      color: #f2f3ee;
+      margin-right: 30px;
+      padding-right: 30px;
+      padding: 0;
+      text-decoration: underline;
+}
+
+h2 {
+	font-size: 3em;
+      text-align: center;
+      color: #8b008b;
+      padding: 0px 10px 20px;
+      font-style-width: bold;
+      text-decoration: underline;
+      text-transform: uppercase;
+}
+h3,h4,h5,h6 {
+	font-size: 2.2em;
+	color: #f2f3ee;
+	background: #ffb6c1;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 60px;
+	width: 50%;
+}
+h5 {
+	width: 70%;
+	font-size: 2em;
+}
+p {
+	font-size: 23px;
+	font-style: italic;
+	margin: 40px 40px 40px 40px;
+	text-align: center;
+}
+#goa1,#mumbai1,#andaman1,#laksh1 {
+	margin: 30px 30px 30px 30px;
+	padding: 40px 40px 40px 40px;
+	}
+
+#goa,#mumbai,#andaman,#laksh {
+	width: 50%;
+	columns:3px 1;
+	font-size: 18px;
+}
+#goa1 {
+    
+    position: absolute;
+    text-indent: -500px;
+    top: 170px;
+    left: 1150px;
+}
+#mumbai1 {
+	position: absolute;
+	text-indent: -300px;
+	top: 570px;
+	left: 950px;
+}
+#andaman1 {
+	position: absolute;
+	text-indent: -300px;
+	top:960px;
+	left: 950px;
+}
+#laksh1  {
+	top:1360px;
+	left: 1150px;
+	position: absolute;
+	text-indent: -500px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+address {
+	margin: 30px 30px 30px 30px;
+	padding: 50px 50px 50px 50px;
+	background: #ffb6c1;
+	color: #f2f3ee;
+	width: 40%;
+	font-size: 24px;
+    font-style: inherit;
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+

@@ -1,0 +1,178 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body {
+
+    background:url('images/fwww.jpg');
+
+    font-family: "ultra","cookie","lucliest guy";
+    font-size: large;
+    background-size: 1400px 1600px;
+    font-weight: lighter;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:500! important;
+    color: #008080;
+    font-size: 50px;
+    margin:0;
+    font-family: 'Love Ya Like A Sister' , cursive;
+
+
+}
+h2 {
+  
+  text-transform: capitalize;
+  text-indent: none;
+
+}
+h4 {
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 30px 30px 10px 10px;
+}
+p{
+
+    font-style:italic;
+    font-size: 20px;
+    color: #bc8f8f ;
+    text-align: center;
+    padding:40px 40px 40px 40px;
+}
+
+/*#cw{
+   border-style:double;
+   border-color:rgb(216, 145, 51);
+   border-width: medium;
+    color: white;
+   background-color: rgb(216, 145, 51);
+   margin: 0 20px 20px 20px;
+   padding: 5px 0px;
+text-align: center;
+   list-style-type: none;
+position: relative;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+float: right;
+}*/
+
+
+#photo{
+    margin:30px 30px 30px 30px;
+    padding:20px 40px 40px 40px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    
+    border-width: 60px;
+    width: 350px;
+
+
+}
+
+#cw  {
+font-size: 26px;
+
+    color:white;
+    background-color:#20b2aa;
+    border-style: dotted;
+    width: 500px;
+    text-decoration: underline;
+    text-decoration-color: #db7093;
+    position: relative;
+
+    left: 700px;
+    bottom: 480px;
+  }
+
+#cw .table .tr .td {
+  list-style-image: url('images/download.png');
+}
+#gallery {
+  position: relative;
+  bottom: 250px;
+  text-align: center;
+
+
+
+}
+
+table {
+border-spacing: 40px .50rem;
+width: 200px;
+grid-row:3;
+    grid-column:3;
+    letter-spacing: 3px;
+
+  }
+
+td {
+padding-bottom: 20px;
+padding-right: 70px;
+padding-top: 10px;
+height: 30px;
+
+
+}
+#cw tr {
+  list-style-type: square;
+}
+footer.main {
+    background: #008080 url('../images/bg-tile-brown.gif') top center no-repeat;
+    color: #f2f3ee;
+}
+#address {
+    width: 240px;
+    float: left;
+    padding: 10px 0 10px 30px;
+    font-size: 20px;
+}
+
+#rights {
+    position: relative;
+  left:550px;
+  bottom: 100px;
+    margin-top: 80px;
+
+
+
+}
+.clearfix:after {
+visibility:hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

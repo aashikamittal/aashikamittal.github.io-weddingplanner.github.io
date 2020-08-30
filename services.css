@@ -1,0 +1,110 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+background-image: url("images/flower1.jpg");
+     font-family: "Sofia";
+    font-size: 3em;
+    background-size: 1350px 1150px;
+  }	
+
+.container {
+margin: 40px 40px 40px 40px;
+padding: 250px 250px 200px 300px;
+}  
+
+header nav {
+	color: #b27f7f;
+}
+
+header nav ul li a {
+	color: #b27f7f;
+	text-decoration: underline;
+}
+header nav ul li a:hover{
+	color: #9f5f5f;
+	text-shadow:4px 2px;
+}
+
+h6 {
+	color: #f2f3ee;
+	font-size: 28px;
+	text-decoration: underline;
+	 font-family: sans-serif,arial,georgia;
+	 padding-top: 20px;
+}
+.footersection-1 {
+    background: #bc8f8f;
+    color: #f2f3ee;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'open sans' , 'helvetica neue' , helvetica , arial , sans-serif;
+    padding: 20px 20px 20px 20px;
+    columns:50px 2;
+
+
+
+}
+/*--------address-------*/
+
+#address {
+    width: 240px;
+   float: left;
+    padding: 0;
+    font-size: 20px;
+    color: #f2f3ee;
+}
+
+/*----------right terms--------*/
+
+#rights {
+	margin-top: 0;
+     bottom: -40px;
+    font-size: 22px;
+    color: #f2f3ee; 
+    text-indent: 10%;
+    font-family: sans-serif,helvetica,georgia;
+}
+/*-----address-----*/
+
+.clearfix:after {
+
+    display: inline-table;
+}
+
+#address ul {
+	padding: 0;
+	margin: 0;
+	
+}
+
+/*--------socialmedia--------*/
+.fa {
+  padding: 20px;
+  font-size: -1px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+   margin: 0px;
+
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

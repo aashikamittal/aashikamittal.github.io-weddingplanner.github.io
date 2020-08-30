@@ -1,0 +1,22 @@
+
+
+body {
+	background-image: url('images/thank.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+h1 {
+
+margin-top: 10%;
+
+background-color: rgb(239,229,229);
+align-content: center;
+text-align: center;
+  font-size: 45px;
+  font-family: "Sofia";
+  color: #000000;
+
+}
+

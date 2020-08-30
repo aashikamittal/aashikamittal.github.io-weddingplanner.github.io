@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image:url('images/palace2.jpg');
+	background-size: 2000px 1900px;
+}	
+
+h7 {
+      font-size: 1.8em;
+      text-align: center;
+      color: #f2f3ee;
+      margin-right: 30px;
+      padding-right: 30px;
+      padding: 0;
+      text-decoration: underline;
+}
+
+h2 {
+	font-size: 3em;
+	margin: 30px;
+      text-align: center;
+      color: #191970;
+      padding: 0px 10px 20px;
+      font-style-width: bold;
+      text-decoration: underline;
+      text-transform: uppercase;
+}
+h3,h4,h5,h6 {
+	font-size: 2.2em;
+	color: #f2f3ee;
+	background: #d2b48c;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 60px;
+	width: 50%;
+}
+p {
+	font-style: italic;
+	margin: 40px 40px 40px 40px;
+	text-align: center;
+	}
+#main {
+	background: #5f9ea0;
+	color: #f2f3ee;
+	font-size:20px;
+	padding: 10px 10px 10px 10px;
+	margin: 50px 100px 50px 400px;
+
+}
+#jim1,#kerela1,#nainital1,#shimla1 {
+	margin: 30px 30px 30px 30px;
+	padding: 40px 40px 40px 40px;
+}
+#jim,#kerela,#nainital,#shimla {
+	width: 50%;
+	columns:3px 1;
+	font-size: 18px;
+}
+
+#jim {
+	font-size: 19px;
+	color: #f2f3ee;
+	background: #c0c0c0;
+	right: -300px;
+
+}
+#jim1 {
+	
+	left: 50px;
+	position: absolute;
+	text-indent: 670px;
+	top: 330px;
+
+}
+#kerela {
+	font-size: 19px;
+	color: #f2f3ee;
+	background: #f4a460;
+	right: -300px;
+}
+#nainital {
+	font-size: 19px;
+	color: #f2f3ee;
+	background: #bc8f8f;
+	right: -300px;
+}
+#nainital1 {
+	left: 50px;
+	position: absolute;
+	text-indent: 670px;
+	top: 1460px;
+}
+#shimla {
+	font-size: 19px;
+	color: #f2f3ee;
+	background: #8fbc8f;
+	right: -300px;
+}
+#shimla1 {
+	left: 50px;
+	position: absolute;
+	text-indent: 670px;
+	top: 1780px;
+
+}
+address {
+	margin: 30px 30px 30px 30px;
+	padding: 50px 50px 50px 50px;
+	background: #ffb6c1;
+	color: #f2f3ee;
+	width: 40%;
+	font-size: 24px;
+    font-style: inherit;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+}
+.main {
+	background: #5f9ea0;
+	color: #f2f3ee;
+	font-size:20px;
+	padding: 10px 10px 10px 10px;
+	margin: 50px 100px 50px 400px;
+
+
+}
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

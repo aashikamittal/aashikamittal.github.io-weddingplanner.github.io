@@ -1,0 +1,140 @@
+/* entertainment*/
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+
+    background-color:antiquewhite;
+    font-family: 'open sans' , 'helvetica neue' , helvetica , arial , sans-serif;
+    font-size: large;
+    
+    font-weight: lighter;
+}
+
+#heading{
+    text-align: center;
+    font-weight:350! important;
+    color: rgba(228, 159, 111, 0.808);
+    font-size: 30px;
+    margin:0;
+font-family:  'Love Ya Like A Sister' , cursive;
+
+}
+#paragraph1{
+    font-style:italic;
+    font-size:  21px;
+    color:dimgray ;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#img1{
+    margin: 20px 20px 20px;
+    padding:20px 20px 20px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    border: double;
+    border-width: 60px;
+    border-top-color: #FA8072;
+    width: 350px;
+}
+
+#list{
+font-size: 30px;
+color: white;
+background-color: #FA8072;
+border-style: dotted;
+width: 500px;
+text-decoration:underline;
+text-decoration-color: black;
+
+position: relative;
+left: 600px;
+bottom: 400px;
+
+}
+
+#gallery{
+    position: relative;
+    
+  bottom: 250px;
+  text-align: center;
+  
+
+
+}
+
+#address, #rights {
+    width: 240px;
+    float: left;
+    padding: 10px 0 10px 50px;
+}
+
+#rights{
+    position: relative;
+    left:550px;
+    bottom: 100px;
+    margin-top: 9px;
+
+}
+
+.clearfix:after {
+    visibility:hidden;
+        display: block;
+        content: "";
+        clear: both;
+        height: 0;
+    }
+
+    #cw tr {
+        list-style-type: square;
+      }
+      footer.main {
+          background:lightcoral url('../images/bg-tile-brown.gif') top center no-repeat;
+          color:white;
+      }
+
+      table {
+        border-spacing: 40px .50rem;
+        width: 200px;
+        grid-row:3;
+            grid-column:3;
+            letter-spacing: 3px;
+          }
+        
+        td {
+        padding-bottom: 10px;
+        padding-right: 60px;
+        padding-top: 10px;
+        height: 30px;
+        
+        
+        }
+        .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+    

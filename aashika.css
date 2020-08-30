@@ -1,0 +1,138 @@
+/* about */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+    background:#cfafaf;
+    font-family: "ultra","cookie","lucliest guy";
+    font-size: large;
+    font-weight: lighter;
+}
+/*---image----*/
+  .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+}
+
+/*--------about us-----*/
+
+ h1 {
+    font-family: "Sofia";
+    font-style: bold;
+    font-size: 90px;
+    line-height: 90px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #bc8f8f;
+    text-indent: 25%;
+    width: 90%;
+
+
+ }
+ /*--------paragraph-----*/
+
+  #paragraph {
+    font-style: italic;
+    font-size: 20px;
+    background: #ad7676;
+    color: white;
+    padding: 20px 20px 40px 40px;
+    columns:50px 3;
+  }
+/*------our gallery--------*/
+
+h2{
+    color: #bc8f8f;
+    font-size: 3em;
+    text-indent: 8%;
+    text-shadow:1px 1px;
+    
+    padding: 20px 20px 20px 20px;
+    text-decoration: underline;
+}
+
+/*-------handpicture----*/
+
+/*#couple{
+    margin: 20px 20px 20px 20px;
+    padding: 80px 80px 80px 80px;
+}*/
+
+/*-------images--------*/
+
+#pictures {
+    position: relative;
+    
+    text-align: center;
+}
+/*-------footer----*/
+
+footer.main {
+    background: #bc8f8f;
+   color: #f2f3ee;
+}
+#address {
+    width: 240px;
+    float: left;
+    padding: 10px 0 10px 30px;
+    font-size: 20px;
+}
+
+#rights {
+    position: relative;
+  left:550px;
+  bottom: 100px;
+    margin-top: 80px;
+
+
+
+}
+.clearfix:after {
+visibility:hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
+/* ---------find us here----------*/
+
+h4,h3{
+   color: :white;
+   font-size: 30px;
+   text-decoration: underline;
+}
+/*--------socialmedia--------*/
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px;
+}
+
+.fa-facebook{
+    background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #ea4c89;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+
